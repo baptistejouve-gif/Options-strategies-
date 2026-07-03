@@ -49,6 +49,6 @@ Les Greeks calculés sont :
 
 ## Lancement 
 
-Ouvrir le shell et allez dans le dossier ou vous avez enregistrés app.py
-pip install -r requirements.txt
-streamlit run app.py
+- Ouvrir le shell et allez dans le dossier ou vous avez enregistrés app.py
+- pip install -r requirements.txt
+- streamlit run app.py
