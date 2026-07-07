@@ -12,12 +12,7 @@ The application allows users to create custom option strategies and provides:
 - Overall strategy exposure
 - Strategy name if it matches a predefined strategy
 
----
-
 # Features
-
-## Strategy Construction
-
 Create custom strategies composed of multiple option legs:
 
 - Calls
@@ -28,15 +23,11 @@ Create custom strategies composed of multiple option legs:
 - Premium
 - Time to maturity
 - Implied volatility
-
 Up to **12 option legs** can be added.
-
----
 
 # Pricing Model
 
 Theoretical option prices are calculated using the **Black-Scholes** model.
-
 The calculated Greeks include:
 
 - Delta
@@ -45,12 +36,12 @@ The calculated Greeks include:
 - Theta
 - Rho
 
----
+## Installation
 
-# Launch
-
-- Open a terminal and navigate to the folder where **app.py** is located.
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
 ```
+## Author
+
+Baptiste Jouve
