@@ -50,8 +50,6 @@ The calculated Greeks include:
 # Launch
 
 - Open a terminal and navigate to the folder where **app.py** is located.
-- Run:
-
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
