@@ -54,10 +54,5 @@ The calculated Greeks include:
 
 ```bash
 pip install -r requirements.txt
-```
-
-- Then start the application with:
-
-```bash
 streamlit run app.py
 ```
